@@ -1,2 +1,1 @@
-# ProjectoProcesos
-https://github.com/markitos98/ProjectoProcesos/actions/workflows/main.yml/badge.svg
+https://github.com/markitos98/projectoprocesos/workflows/workflow/badge.svg
