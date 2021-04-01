@@ -1,1 +1,1 @@
-[![Build](https://github.com/markitos98/ProjectoProcesos/workflows/Build/badge.svg)]
+https://img.shields.io/github/workflow/status/markitos98/ProjectoProcesos/workflow
